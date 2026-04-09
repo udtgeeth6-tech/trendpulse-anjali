@@ -1,0 +1,67 @@
+post_id,title,category,score,num_comments,author,collected_at
+47611921,Significant raise of reports,technology,310,155,stratos123,2026-04-04 19:04:50
+47603737,AI for American-produced cement and concrete,technology,223,117,latchkey,2026-04-04 19:04:50
+47620155,Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are,technology,38,9,bigbobbeeper,2026-04-04 19:04:50
+47618123,Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer,technology,6,0,dxs,2026-04-04 19:04:50
+47636556,The Web Is an Antitrust Wedge,technology,6,0,genericlemon24,2026-04-04 19:04:51
+47626347,F-15E wreckage photos amid Iranian claims it shot down an American fighter,technology,36,1,uticus,2026-04-04 19:04:51
+47638640,AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills,technology,5,2,cebert,2026-04-04 19:04:51
+47632503,"Iran strikes leave Amazon availability zones ""hard down"" in Bahrain and Dubai",technology,225,106,upofadown,2026-04-04 19:04:51
+47636600,"Apple at 50, blind people and our allies shaping Apple accessibility innovation",technology,5,2,sholladay,2026-04-04 19:04:51
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",technology,91,39,Bender,2026-04-04 19:04:51
+47622264,"Why OpenAI Decided to Buy 'TBPN,' Tech's Hottest News Show",technology,7,0,mudil,2026-04-04 19:04:51
+47634567,NHS staff resist using Palantir software,technology,14,0,abdelhousni,2026-04-04 19:04:51
+47618189,Tailscale's new macOS home,technology,557,305,tosh,2026-04-04 19:04:51
+47640722,12k AI-generated blog posts added in a single commit,technology,117,109,noslop,2026-04-04 19:04:51
+47593620,1-Bit Bonsai: The First Commercially Viable 1-Bit LLMs,technology,9,1,wmf,2026-04-04 19:04:51
+47583391,Windows++: C++ Application Framework for Windows by Paul DiLascia,technology,20,6,teleforce,2026-04-04 19:04:51
+47593634,Ordinary Lab Gloves May Have Skewed Microplastic Data,technology,138,62,WaitWaitWha,2026-04-04 19:04:51
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-04 19:04:54
+47632687,Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions,science,18,5,abawany,2026-04-04 19:04:57
+47604155,SpaceX files to go public,science,393,571,nutjob2,2026-04-04 19:04:58
+47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2026-04-04 19:05:00
+47624879,Switzerland hosts 'CERN of semiconductor research',science,33,6,teleforce,2026-04-04 19:05:01
+47641277,Deafness reversed: One injection restores hearing in just weeks – ScienceDaily,science,16,4,bilsbie,2026-04-04 19:05:01
+47635146,Budget cuts for US science proposed again by Trump administration,science,8,0,paulpauper,2026-04-04 19:05:01
+47620867,Proton Workspace: An encrypted suite for team collaboration,science,26,4,teekert,2026-04-04 19:05:02
+47588349,GitHub Monaspace Case Study,science,146,50,homebrewer,2026-04-04 19:05:04
+47586614,Open source CAD in the browser (Solvespace),science,369,126,phkahler,2026-04-04 19:05:07
+47639960,Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions,science,5,1,throw0101c,2026-04-04 19:05:08
+47634503,UN chief tells Trump 'war is not a game show' after US bombs civilian targets,entertainment,20,1,hkhn,2026-04-04 19:05:11
+47634544,"The story that rocked the world: Ten years of the Panama Papers, part 1 – ICIJ",entertainment,12,0,abdelhousni,2026-04-04 19:05:11
+47640728,Show HN: A game where you build a GPU,entertainment,187,44,Jaso1024,2026-04-04 19:05:11
+47636660,Systemd-free Modern Linux: artixlinux and dinit and labwc and noctalia shell,entertainment,11,0,grigio,2026-04-04 19:05:12
+47608059,43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15,entertainment,30,10,akyuu,2026-04-04 19:05:12
+47612202,Article about simple LSB steganography in JavaScript,entertainment,7,1,ernos,2026-04-04 19:05:13
+47608130,Montana referendum to outlaw corporate campaign contributions [video],entertainment,63,14,le-mark,2026-04-04 19:05:13
+47620442,NASA: Artemis II Real time tracking with multiple views,entertainment,11,0,ColinWright,2026-04-04 19:05:13
+47597935,CERN levels up with new superconducting karts,entertainment,394,85,fnands,2026-04-04 19:05:13
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,72,4,nemoniac,2026-04-04 19:05:13
+47593958,Karakuri Mechanical Art,entertainment,23,2,marukodo,2026-04-04 19:05:14
+47639042,Trying for 1 month but can't learn pixel art still,entertainment,23,38,limondas,2026-04-04 19:05:15
+47632901,Sandbox Strategy Game for AI,entertainment,6,0,Stefan_Golas,2026-04-04 19:05:15
+47618581,Amazon is adding a fuel surcharge to fees it collects from third-party sellers,entertainment,166,105,lehi,2026-04-04 19:05:15
+47632385,"Palm-sized superconducting magnet achieves 42 Tesla, rivaling the worlds biggest",worldnews,10,0,u1hcw9nx,2026-04-04 19:05:18
+47587631,RubyGems Fracture Incident Report,worldnews,93,40,schneems,2026-04-04 19:05:23
+47628606,"Hello, World - NASA",worldnews,5,0,lateforwork,2026-04-04 19:05:23
+47628608,OpenClaw privilege escalation vulnerability,worldnews,488,227,kykeonaut,2026-04-04 19:05:23
+47624580,AI's fluency in other languages hides a Western worldview that can mislead users,worldnews,13,2,1659447091,2026-04-04 19:05:24
+47622594,Untaxed Wealth of Richest 0.1% Is More Than Assets of World’s Poorest Half,worldnews,35,15,ZunarJ5,2026-04-04 19:05:25
+47630795,"Hello, World",worldnews,91,23,reconnecting,2026-04-04 19:05:25
+47639016,Show HN: Hacker News RSS Feed Directory,worldnews,5,0,tamnd,2026-04-04 19:05:25
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,worldnews,87,30,ronfriedhaber,2026-04-04 19:05:28
+47637172,AI World Domination Starts with Your Font Settings,worldnews,5,1,IkanRiddle,2026-04-04 19:05:28
+47627061,Solar and batteries can power the world,worldnews,282,439,edent,2026-04-04 19:05:29
+47641487,Show HN: Running local OpenClaw together with remote agents in an open network,worldnews,7,2,kevinlu,2026-04-04 19:05:30
+47592392,Show HN: EU Leadership – Live API data site comparing Europe to the world,worldnews,33,16,aureljohn,2026-04-04 19:05:30
+47637491,The global oil crisis is turning into an everything crisis,worldnews,7,0,iamflimflam1,2026-04-04 19:05:31
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),sports,10,3,TMWNN,2026-04-04 19:05:34
+47622715,Microsoft wants Edge to automatically open by default at Windows 11 boot,sports,16,5,tech234a,2026-04-04 19:05:39
+47641164,Polymarket apologizes for allowing wagers on fate of U.S. pilots downed in Iran,sports,9,3,ceejayoz,2026-04-04 19:05:39
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,sports,957,735,firloop,2026-04-04 19:05:43
+47592462,I traced my traffic through a home Tailscale exit node,sports,154,72,stonecharioteer,2026-04-04 19:05:44
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,56,33,pseudolus,2026-04-04 19:05:45
+47633676,"Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",sports,60,58,angst,2026-04-04 19:05:46
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,75,29,simple10,2026-04-04 19:05:46
+47601194,"The Cathedral, the Bazaar, and the Winchester Mystery House",sports,112,47,dbreunig,2026-04-04 19:05:48
+47636061,EU cyber agency attributes major data breach to TeamPCP hacking group,sports,6,1,jruohonen,2026-04-04 19:05:49
