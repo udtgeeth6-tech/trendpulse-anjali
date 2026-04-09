@@ -1,0 +1,62 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47611921,Significant raise of reports,technology,300,153,stratos123,2026-04-03 16:13:35,0.5083056478405316,True
+47603737,AI for American-produced cement and concrete,technology,220,117,latchkey,2026-04-03 16:13:37,0.5294117647058824,True
+47577120,Recover Apple Keychain,technology,102,37,speckx,2026-04-03 16:13:38,0.3592233009708738,False
+47552562,CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering,technology,334,152,TORcicada,2026-04-03 16:13:42,0.4537313432835821,True
+47620155,Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are,technology,35,8,bigbobbeeper,2026-04-03 16:13:43,0.2222222222222222,False
+47618123,Priced Out by AI: The Memory Chip Crisis Hitting Every Consumer,technology,5,0,dxs,2026-04-03 16:13:45,0.0,False
+47626347,F-15E Wreckage Photos Amid Iranian Claims It Shot Down an American Fighter,technology,23,12,uticus,2026-04-03 16:13:51,0.5,False
+47622264,"Why OpenAI Decided to Buy 'TBPN,' Tech's Hottest News Show",technology,7,0,mudil,2026-04-03 16:13:53,0.0,False
+47607947,Obfuscation is not security – AI can deobfuscate any minified JavaScript code,technology,36,34,rvz,2026-04-03 16:13:56,0.918918918918919,False
+47618189,Tailscale's new macOS home,technology,524,269,tosh,2026-04-03 16:13:57,0.5123809523809524,True
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-03 16:14:05,0.3076923076923077,False
+47604155,SpaceX files to go public,science,392,570,nutjob2,2026-04-03 16:14:59,1.450381679389313,True
+47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2026-04-03 16:15:14,0.06060606060606061,False
+47616595,Rewrites.bio: 60x speedup in Genomics QC and AI rewrite principles for Science,science,17,3,emiller88,2026-04-03 16:15:15,0.16666666666666666,False
+47624879,Switzerland hosts 'CERN of semiconductor research',science,30,6,teleforce,2026-04-03 16:15:26,0.1935483870967742,False
+47620867,Proton Workspace: An encrypted suite for team collaboration,science,26,3,teekert,2026-04-03 16:15:36,0.1111111111111111,False
+47612775,The SpaceX IPO: retail investor notes,science,94,93,u1hcw9nx,2026-04-03 16:15:50,0.9789473684210527,False
+47578086,Vulnerability research is cooked,science,255,168,pedro84,2026-04-03 16:16:06,0.65625,True
+47588349,GitHub Monaspace Case Study,science,146,49,homebrewer,2026-04-03 16:16:09,0.3333333333333333,True
+47617027,A forecast of the fair market value of SpaceX's businesses,science,98,196,ddp26,2026-04-03 16:16:10,1.97979797979798,False
+47605831,OnlyOffice just pulled its 8-year partnership with Nextcloud,entertainment,22,2,TechTechTech,2026-04-03 16:16:55,0.08695652173913043,False
+47622322,Timeline of Microsoft's SmartNIC Tech (Azure Boost),entertainment,5,0,WarOnPrivacy,2026-04-03 16:17:09,0.0,False
+47612127,Men are ditching TV for YouTube as AI usage and social media fatigue grow,entertainment,46,125,bundie,2026-04-03 16:17:15,2.6595744680851063,False
+47608059,43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15,entertainment,29,10,akyuu,2026-04-03 16:17:19,0.3333333333333333,False
+47560981,The road to electric in charts and data,entertainment,62,91,zeristor,2026-04-03 16:17:23,1.4444444444444444,False
+47612202,Article about simple LSB steganography in JavaScript,entertainment,6,1,ernos,2026-04-03 16:17:25,0.14285714285714285,False
+47608130,Montana referendum to outlaw corporate campaign contributions [video],entertainment,63,13,le-mark,2026-04-03 16:17:27,0.203125,False
+47620442,NASA: Artemis II Real time tracking with multiple views,entertainment,10,0,ColinWright,2026-04-03 16:17:31,0.0,False
+47575403,CodingFont: A game to help you pick a coding font,entertainment,491,236,nvahalik,2026-04-03 16:17:34,0.4796747967479675,True
+47597935,CERN levels up with new superconducting karts,entertainment,394,85,fnands,2026-04-03 16:17:35,0.21518987341772153,True
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,64,4,nemoniac,2026-04-03 16:17:36,0.06153846153846154,False
+47546775,Back to FreeBSD – Part 2 – Jails,entertainment,117,30,vermaden,2026-04-03 16:17:40,0.2542372881355932,False
+47593958,Karakuri Mechanical Art,entertainment,22,2,marukodo,2026-04-03 16:17:52,0.08695652173913043,False
+47618581,Amazon is adding a fuel surcharge to fees it collects from third-party sellers,entertainment,163,97,lehi,2026-04-03 16:17:57,0.5914634146341463,True
+47558867,One of the largest salt mines in the world exists under Lake Erie,worldnews,68,50,1659447091,2026-04-03 16:18:30,0.7246376811594203,False
+47587631,RubyGems Fracture Incident Report,worldnews,93,40,schneems,2026-04-03 16:18:41,0.425531914893617,False
+47624580,AI's fluency in other languages hides a Western worldview that can mislead users,worldnews,9,1,1659447091,2026-04-03 16:18:55,0.1,False
+47622594,Untaxed Wealth of Richest 0.1% Is More Than Assets of World’s Poorest Half,worldnews,33,12,ZunarJ5,2026-04-03 16:19:02,0.35294117647058826,False
+47602193,Jentic Mini: open-source API execution layer built by OpenClaw for OpenClaws,worldnews,31,5,seanblanchfield,2026-04-03 16:19:10,0.15625,False
+47565365,C++26 is done: ISO C++ standards meeting Trip Report,worldnews,313,424,pjmlp,2026-04-03 16:19:15,1.3503184713375795,True
+47569471,Philly courts will ban all smart eyeglasses starting next week,worldnews,415,210,Philadelphia,2026-04-03 16:19:16,0.5048076923076923,True
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,worldnews,82,30,ronfriedhaber,2026-04-03 16:19:26,0.3614457831325301,False
+47610604,Qwen3.6-Plus: Towards Real World Agents,worldnews,20,4,meetpateltech,2026-04-03 16:19:37,0.19047619047619047,False
+47627061,Solar and batteries can power the world,worldnews,145,177,edent,2026-04-03 16:19:46,1.2123287671232876,True
+47622996,Hacker News MOTD shell script,worldnews,6,1,brandonpollack2,2026-04-03 16:19:50,0.14285714285714285,False
+47592392,Show HN: EU Leadership – Live API data site comparing Europe to the world,worldnews,33,16,aureljohn,2026-04-03 16:20:05,0.47058823529411764,False
+47617028,Anthropic's AutoDream Is Flawed,worldnews,13,2,k1musab1,2026-04-03 16:20:12,0.14285714285714285,False
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,567,195,pretext,2026-04-03 16:20:14,0.34330985915492956,True
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),sports,6,2,TMWNN,2026-04-03 16:20:27,0.2857142857142857,False
+47552643,Cat Itecture: Better Cat Window Boxes (2023),sports,87,14,gggscript,2026-04-03 16:20:36,0.1590909090909091,False
+47562961,Chess in SQL,sports,183,47,upmostly,2026-04-03 16:20:47,0.2554347826086957,True
+47565307,Windows 95 defenses against installers that overwrite a file with an older one,sports,165,96,michelangelo,2026-04-03 16:21:22,0.5783132530120482,True
+47622715,Microsoft wants Edge to automatically open by default at Windows 11 boot,sports,13,5,tech234a,2026-04-03 16:21:29,0.35714285714285715,False
+47575616,"FTC action against Match and OkCupid for deceiving users, sharing personal data",sports,316,158,gnabgib,2026-04-03 16:21:31,0.49842271293375395,True
+47625017,Atmospheric CO₂ accelerating faster than fossil fuel emissions are growing,sports,5,1,mariuz,2026-04-03 16:22:00,0.16666666666666666,False
+47592462,I traced my traffic through a home Tailscale exit node,sports,152,72,stonecharioteer,2026-04-03 16:22:25,0.47058823529411764,True
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,73,26,simple10,2026-04-03 16:22:57,0.35135135135135137,False
+47607326,The Windows equivalents of the most used Linux commands,sports,68,70,elsadek,2026-04-03 16:23:35,1.0144927536231885,False
+47539767,The European AllSky7 fireball network,sports,122,13,marklit,2026-04-03 16:23:36,0.10569105691056911,True
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),sports,39,6,ruevs,2026-04-03 16:23:42,0.15,False
+47625860,Ubuntu now has higher system hardware requirements than Windows 11,sports,13,4,bundie,2026-04-03 16:23:46,0.2857142857142857,False
